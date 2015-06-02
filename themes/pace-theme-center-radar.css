@@ -33,6 +33,10 @@
   border-color: #29d transparent transparent;
   border-radius: 50%;
 
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+
   -webkit-animation: spin 1s linear infinite;
      -moz-animation: spin 1s linear infinite;
        -o-animation: spin 1s linear infinite;
@@ -51,6 +55,10 @@
   border-style: solid;
   border-color: #29d transparent transparent;
   border-radius: 50%;
+
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
 }
 
 
