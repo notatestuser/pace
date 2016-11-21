@@ -59,7 +59,8 @@
           "flat-top",
           "loading-bar",
           "mac-osx",
-          "minimal"
+          "minimal",
+          "omni-overlay"
         ],
         "enumNames": {
           "barber-shop": "Barber Shop",
@@ -75,7 +76,8 @@
           "flat-top": "Flat Top",
           "loading-bar": "Loading Bar",
           "mac-osx": "Mac OS X",
-          "minimal": "Minimal"
+          "minimal": "Minimal",
+          "omni-overlay": "Omni Overlay"
         },
         "default": "barber-shop"
       }
